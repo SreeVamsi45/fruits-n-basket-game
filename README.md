@@ -11,3 +11,6 @@ the score is persistent across all gaming sessions , u can specifically reset th
 enjoy the game & music.....
 
 a mini-game by V Sree Vamsi
+
+
+THE MINI-GAME is hosted at : https://sreevamsi45.github.io/fruits-n-basket-game/
